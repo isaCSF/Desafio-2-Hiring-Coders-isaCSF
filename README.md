@@ -6,7 +6,7 @@
 - Listar produtos na Home vindos de uma API Fake (API gerada através do My JSON Server: https://my-json-server.typicode.com/)
 - Adicionar ao localstorage os produtos selecionados através do botão "Adicionar ao carrinho", simulando um carrinho de compras real;
 - Cadastro de clientes, que também adiciona os dados coletados no formulário no localstorage;
-- Link da API Fake utilizada: https://my-json-server.typicode.com/paularodriguesdasilva/desafio02-hc-gama-academy-fakeapi
+- Link da API Fake utilizada: https://my-json-server.typicode.com/isaCSF/desafio2fakeapi
 
 ## Preview
 https://ecommerce-celular.netlify.app/
