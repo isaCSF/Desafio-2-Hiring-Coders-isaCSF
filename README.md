@@ -9,7 +9,7 @@
 - Link da API Fake utilizada: https://my-json-server.typicode.com/isaCSF/desafio2fakeapi
 
 ## Preview
-https://ecommerce-celular.netlify.app/
+https://vigilant-ritchie-dbfbab.netlify.app/
 
 
 ## Para rodar o projeto:
